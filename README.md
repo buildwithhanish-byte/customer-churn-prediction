@@ -1,6 +1,10 @@
+
 # Customer Churn Prediction
 
 This is a small machine learning project that predicts whether a telecom customer is likely to leave. It uses the Telco Customer Churn dataset, a Decision Tree model, and a FastAPI endpoint for making predictions.
+
+## GitHub Repository:
+https://github.com/buildwithhanish-byte/customer-churn-prediction
 
 ## Folder structure
 
